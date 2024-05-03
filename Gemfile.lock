@@ -1,5 +1,10 @@
 GEM
+  remote: https://rubygems.org/
   specs:
+    concurrent-ruby (1.2.3)
+    google-protobuf (3.24.2-x86_64-linux)
+    tzinfo (2.0.6)
+      concurrent-ruby (~> 1.0)
 
 GEM
   remote: https://gem.fury.io/ankithoney/
