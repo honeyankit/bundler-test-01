@@ -1,0 +1,17 @@
+GEM
+  specs:
+
+GEM
+  remote: https://gem.fury.io/ankithoney/
+  specs:
+    test-rubygem-bundler (0.2.0)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  test-rubygem-bundler (~> 0.2.0)!
+
+BUNDLED WITH
+   2.5.9
