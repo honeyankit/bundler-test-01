@@ -19,4 +19,4 @@ DEPENDENCIES
   test-rubygem-bundler (~> 0.2.0)!
 
 BUNDLED WITH
-   2.5.9
+   1.17.3
